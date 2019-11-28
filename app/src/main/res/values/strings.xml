@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MBClient</string>
+
+    //buttons
+    <string name="read_data_once_button_text">Read Once</string>
+    <string name="cycle_read_data_button_text">Cycle read</string>
+    <string name="write_data_button_text">Write</string>
+
+    //Indications
+    <string name="cycle_read_on_label_text"><b>Cycle read ON</b></string>
+    <string name="cycle_read_off_label_text"><b>Cycle read OFF</b></string>
+
+    //Edit text fields
+    <string name="SW_edit_text_default_value">0</string>
+    <string name="CW_edit_text_default_value">0</string>
+
+    //Labels
+    <string name="SW_edit_text_label">Status Word:</string>
+    <string name="CW_edit_text_label">Control Word:</string>
+</resources>
